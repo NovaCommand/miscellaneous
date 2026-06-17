@@ -1,0 +1,10 @@
+{
+  "nuvio": {
+    "version": "1.0.0",
+    "description": "Example Nuvio configuration file",
+    "settings": {
+      "enabled": true,
+      "debug": false
+    }
+  }
+}
